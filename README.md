@@ -1,6 +1,6 @@
-# use-redux-store
+# use-redux-hook
 
-[![npm version](https://badge.fury.io/js/react-webcomponentify.svg)](https://badge.fury.io/js/use-redux-store)
+[![npm version](https://badge.fury.io/js/react-webcomponentify.svg)](https://badge.fury.io/js/use-redux-hook)
 
 **A simple react hook to get access to redux store**
 
@@ -19,13 +19,13 @@ This module is a tiny hook that gives out redux store
 # Install
 
 ```
-npm install use-redux-store
+npm install use-redux-hook
 ```
 
 or
 
 ```
-yarn add use-redux-store
+yarn add use-redux-hook
 ```
 
 # Usage
@@ -36,7 +36,7 @@ yarn add use-redux-store
 
 ```js
 import React from "react";
-import { useReduxStore } from "use-redux-store";
+import { useReduxStore } from "use-redux-hook";
 
 export const ExampleReactComponent = () => {
   const store = useReduxStore();

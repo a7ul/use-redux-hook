@@ -1,5 +1,5 @@
 {
-  "name": "use-redux-store",
+  "name": "use-redux-hook",
   "version": "1.0.1",
   "description": "A react hook to get redux store",
   "main": "index.js",
