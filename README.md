@@ -1,6 +1,6 @@
 # use-redux-hook
 
-[![npm version](https://badge.fury.io/js/react-webcomponentify.svg)](https://badge.fury.io/js/use-redux-hook)
+[![npm version](https://badge.fury.io/js/use-redux-hook.svg)](https://badge.fury.io/js/use-redux-hook)
 
 **A simple react hook to get access to redux store**
 
