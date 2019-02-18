@@ -39,8 +39,8 @@ import React from "react";
 import { useReduxStore } from "use-redux-hook";
 
 export const ExampleReactComponent = () => {
-  const store = useReduxStore();
-  const { user } = store.getState();
+  const {getState, dispatch} = useReduxStore();
+  const { user } = getState();
   return <div> Hello {user.name}</div>;
 };
 ```
