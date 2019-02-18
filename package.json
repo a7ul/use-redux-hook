@@ -1,0 +1,15 @@
+{
+  "name": "use-redux-store",
+  "version": "1.0.1",
+  "description": "A react hook to get redux store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atulanand94@gmail.com",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-redux": ">=6.0.0"
+  }
+}
